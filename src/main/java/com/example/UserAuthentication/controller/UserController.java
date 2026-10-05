@@ -2,7 +2,6 @@ package com.example.UserAuthentication.controller;
 
 import com.example.UserAuthentication.DTOs.RegistrationRequestDTO;
 import com.example.UserAuthentication.DTOs.UserDTO;
-import com.example.UserAuthentication.model.User;
 import com.example.UserAuthentication.services.UserRegistrationService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
